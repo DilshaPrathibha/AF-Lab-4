@@ -1,0 +1,19 @@
+{
+  "name": "af-lab-4",
+  "version": "1.0.0",
+  "description": "SE3040 Lab 04 - NodeJS + GitHub Flow",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DilshaPrathibha/AF-Lab-4.git"
+  },
+  "author": "Dilsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DilshaPrathibha/AF-Lab-4/issues"
+  },
+  "homepage": "https://github.com/DilshaPrathibha/AF-Lab-4#readme"
+}

@@ -1,0 +1,1 @@
+console.log("Lab 04 - NodeJS initialized successfully!");
